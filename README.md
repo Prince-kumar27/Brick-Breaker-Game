@@ -18,7 +18,6 @@ Login Page Features:
 > "Sign In" button: Submits credentials for authentication.
 > Security: Password characters hidden  to prevent visibility.
 > Optional: "Register" button for new users.
-![Screenshot_1](https://github.com/Prince-kumar27/CSE310-JavaProject/assets/111684530/61883f95-240c-4775-9a90-3b39bb3f45ec)
 
 
 Key features of the Registration Page:
@@ -28,7 +27,7 @@ Users provide their desired username and password to establish a new account.
 Data Storage in Text File:
 > Upon successful registration, user details are saved securely within a designated text file.
 > This file serves as a local database for storing account information.
-![Screenshot_2](https://github.com/Prince-kumar27/CSE310-JavaProject/assets/111684530/fcbacba8-9ff1-498f-8c4b-cd18e6985382)
+
 
 Gameplay UI:
 
@@ -40,6 +39,9 @@ Gameplay UI:
 > Brick destruction: Hitting a brick with the ball destroys it and increases the score.
 > Game Over: When the ball falls below the paddle and disappears, the game ends, displaying a "Game Over" message along with score.
 > Replay: Pressing the enter after "Game Over" will restarts the game.
+![Screenshot_1](https://github.com/Prince-kumar27/CSE310-JavaProject/assets/111684530/61883f95-240c-4775-9a90-3b39bb3f45ec)
+
+![Screenshot_2](https://github.com/Prince-kumar27/CSE310-JavaProject/assets/111684530/fcbacba8-9ff1-498f-8c4b-cd18e6985382)
 
 ![Screenshot_3](https://github.com/Prince-kumar27/CSE310-JavaProject/assets/111684530/4fa85d23-fc35-4bfd-8c99-04043fe045ff)
 
